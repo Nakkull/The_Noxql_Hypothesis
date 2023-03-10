@@ -10,7 +10,7 @@ body {
     display: flex;
     place-content: center flex-start;
     align-items: center;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 139, 139);
     flex-flow: column nowrap;
     gap: 10px;
     height: 100vh;
@@ -38,7 +38,7 @@ body {
     width: 100%;
     align-items: center;
     justify-content: center;
-    color: ##008b8b
+    color: rgb(0, 0, 139)
 }
 
 .header-title {
@@ -61,7 +61,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 1.4em;
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(72, 61, 139, 0.75);
 }
 
 .prompt-container {
@@ -85,7 +85,7 @@ body {
     border-top-width: 1px;
     place-content: flex-start;
     align-items: flex-start;
-    background-color: rgba(255, 255, 255, 0.05);
+    background-color: rgba(143, 188, 143, 0.05);
     border-radius: 16px;
     display: flex;
     flex: 0 0 auto;
